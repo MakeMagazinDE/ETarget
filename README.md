@@ -14,27 +14,27 @@ Gerber-Files zur Platinenfertigung; Abmessungen der Platine 100 x 65 mm, 2-lagig
 
 	Stückliste Etarget			
 	ICs			
-				
-	Component	Names	Value	Quantity
+			
+	Comp	Names	Value	Quantity
 	ATmega328-DIL	U10		1
 	TS912	U1-2, U5, U7	TS912 DIL	4
 	555	U3-4, U6, U8	NE555 DIL	4
 				
 	Capacitors			
 				
-	Component	Names	Value	Quantity
+	Comp	Names	Value	Quantity
 	C ker.	C7-8	22p RM5	2
 	C ker.	C9, C14-17	100n RM5	5
 	Elko	C1-2	100µ 16V	2
 				
 	Diodes			
 				
-	Component	Names	Value	Quantity
+	Comp	Names	Value	Quantity
 	Diode	D2-9	1N4148	8
 				
 	Connectors			
 				
-	Component	Names	Value	Quantity
+	Comp	Names	Value	Quantity
 	2WP	PL1-4		4
 	6WP	PL6	Bluetooth HM-10	1
 	10WP	PL5	ISP	1
@@ -42,7 +42,7 @@ Gerber-Files zur Platinenfertigung; Abmessungen der Platine 100 x 65 mm, 2-lagig
 				
 	Resistors			
 				
-	Component	Names	Value	Quantity
+	Comp	Names	Value	Quantity
 	R	R1, R4, R13, R19	200k	4
 	R	R2-3, R7, R10-12, R14, R17-18, R20-21, R24	100k	12
 	R	R5-6, R32, R34	220R	4
