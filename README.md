@@ -14,7 +14,7 @@ Gerber-Files zur Platinenfertigung; Abmessungen der Platine 100 x 65 mm, 2-lagig
 
 ### Stückliste ETarget
 
-Alle Widerstände 1% Metallfilm, Bauform 207 (1/4W). Keramik-Kondensatoren haben Rastermaß 5 mm. PL5 ist eine zweireihige Pfostenleiste 2x 5 Pins, alle anderen einreihig. Falls Sie keinen Programmer für AVR-Mikrocontroller besitzen, bestellen Sie bitte den ATmega328 mit bereits programmiertem Arduino-kompatiblen Bootloader, zum Beispiel von **[Watterott](https://www.watterott.com/de/ATmega328-Arduino-Bootloader)**. Dieser kann dann auf einer Arduiono-Uno-Platine über die Arduino-IDE mit der Firmware geflasht werden.
+Alle Widerstände 1% Metallfilm, Bauform 207 (1/4W). Keramik-Kondensatoren haben Rastermaß 5 mm. PL5 ist eine zweireihige Pfostenleiste 2x 5 Pins, alle anderen einreihig. Falls Sie keinen Programmer für AVR-Mikrocontroller besitzen, bestellen Sie bitte den ATmega328 mit bereits programmiertem Arduino-kompatiblen Bootloader, zum Beispiel von **[Watterott](https://www.watterott.com/de/ATmega328-Arduino-Bootloader)**. Dieser kann dann auf einer Arduino-Uno-Platine über die Arduino-IDE mit der Firmware geflasht werden.
 			
 	ICs			
 	Comp	Names	Value	Quantity
